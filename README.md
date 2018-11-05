@@ -15,11 +15,8 @@
 - [Akroma Github](https://github.com/akroma-project/)
 - [Akroma Blog](https://medium.com/akroma)
 - [Twitter](https://twitter.com/akroma_io/)
-- [Facebook](https://www.facebook.com/AkromaIO/)
 - [Discord](https://discordapp.com/invite/KWC8wtT)
-- [Telegram](https://t.me/akroma_official)
-- [Instagram](https://instagram.com/akroma.io)
-- [Explorer API Documentation](https://api.akroma.io/docs)
+- [Documentation](https://docs.akroma.io)
 
 ### Masternodes
 - [Official Install Guide](http://bit.ly/2FHk2x6)
@@ -32,15 +29,24 @@
 ### Whitepaper Translations
 - [Romanian](https://docs.google.com/document/d/13wSsvkiN0RXPY0gpgrDyqJ56uFv-XjplyZFcOwFqoF0)
 
+### Merchants (pay with AKA)
+- [whopper - cold storage](https://whopper.io/)
+- [MyCryptoStats](https://mycryptostats.com)
+- [Swirl](https://swirlpay.io/)
+
 ### Software
 
 #### Wallets
-- [Web Wallet](https://wallet.akroma.io/)
+- [Web Wallet](https://w.akroma.io/)
 - [Android Wallet](https://play.google.com/store/apps/details?id=com.wallet.crypto.akroma&hl=en)
 
 #### Portfolio
 - [Delta](https://getdelta.io/)
 - [Blockfolio](https://www.blockfolio.com/)
+
+#### Masternode Monitoring
+- [My Crypto Stats](https://mycryptostats.com/)
+- [Akroma-sweep](https://github.com/p-s-dev/akroma-sweep)
 
 #### Mining 
 - [blockwatch](https://itunes.apple.com/app/blockwatch/id1265074035)
@@ -49,7 +55,7 @@
 - [hodl](https://itunes.apple.com/us/app/hodl-real-time-cryptocurrency/id1253668876?mt=8)
 
 ### Exchanges
-- [stocks.exchange](https://stocks.exchange/trade/AKA/BTC)
+- [stex](https://app.stex.com/en/trade/pair/BTC/AKA/1D)
 - [graviex](https://graviex.net/markets/akabtc)
 
 ### Market Information
@@ -64,6 +70,7 @@ These are items where you can help Akroma grow
 
 ### Mining
 - [CoinCalculators](https://www.coincalculators.io/coin.aspx?crypto=akroma-mining-calculator)
+- [WhereToMine](https://www.wheretomine.io/coins/akroma.html)
 
 #### Miners
 - [AIO Miner](https://aiominer.com/)
@@ -82,22 +89,23 @@ These are items where you can help Akroma grow
 
 #### Pools
 - [akroma.minerpool.net](http://akroma.minerpool.net)
-- [aka.vipool.net](http://aka.vipool.net)
 - [akroma.cryptopools.info](http://akroma.cryptopools.info)
 - [mining.akroma.org](http://mining.akroma.org)
 - [clona.ru](http://clona.ru)
-- [aka.miningpeon.net](http://aka.miningpeon.net)
-- [aka.encryptglobe.com](http://aka.encryptglobe.com)
-- [akroma.miningpool.fun](http://akroma.miningpool.fun)
 - [akroma.cryptowarlords.net](http://akroma.cryptowarlords.net)
 - [aikapool.com](http://aikapool.com)
 - [aka.pool.sexy](http://aka.pool.sexy)
 - [ucrypto.net](https://ucrypto.net/pools/)
+- [aka.signal2noi.se](http://aka.signal2noi.se)
+- [2Miners](https://2miners.com/aka-mining-pool)
+- [Akroma.ovh](http://www.akroma.ovh/)
 
 ### Social
-- [Reddit](https://reddit.com/r/akroma_io/)
+- [Reddit](https://reddit.com/r/akroma/)
 
 ### Swag / Shirts / Stickers
+- [Akroma (AKA) Coin Logo T-Shirt](https://www.amazon.com/dp/B07GHB5ZLC)
+- [QR Code Generator](https://cwaqrgen.com/akroma)
 
 ### Articles / Videos / Guides
 - [JustHash - Interview](https://justhash.me/interview-with-a-developer-eric-polerecky-founder-of-akroma/)
