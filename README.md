@@ -113,6 +113,7 @@ These are items where you can help Akroma grow
 
 ### Development
 - [Akroma github](https://github.com/akroma-project/)
+- [Discord Akroma-BOT](https://github.com/ciripel/Akroma-BOT)
 
 ### Visualizations
 - [Stats](http://stats.akroma.io/)
